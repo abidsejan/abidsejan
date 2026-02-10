@@ -25,25 +25,14 @@
 
 # 👨🏻‍💻 Tech Stack
 
-## </> Languages
-
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=openjdk\&logoColor=00F7FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge\&logo=cplusplus)
 ![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge\&logo=csharp)
-
-## ⚙️ Frameworks
-
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge\&logo=springboot)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
-
-## ⛃ Database
-
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
-
-## ⚙︎ Tools
-
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge\&logo=figma)
