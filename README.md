@@ -16,7 +16,7 @@
 # 🪪 About Me
 
 ```diff
-> Developer: Mohammad Abid Hasan
+> Developer: Abid Hasan
 > Location: Dhaka, Bangladesh
 > Education: Studying CSE at American International University Bangladesh
 > Focus: Build SaaS startup & Learn AI Engineering
